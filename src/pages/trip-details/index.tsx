@@ -35,10 +35,8 @@ export function TripDetailsPage() {
           </div>
 
           <Activities />
-
-         
+          
         </div>
-
 
         <div className="w-80 space-y-6">
           <ImportantLinks />
